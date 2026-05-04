@@ -1,1 +1,1 @@
-# tienda_precio
+# Proyecto Colab - Tienda Precio
